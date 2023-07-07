@@ -1,7 +1,7 @@
 # Signin-and-Singup-authentication-using-JWT-tokens
 Created spring boot application for signin and signup authentication using JWT tokens.
 
-This application is using an H2 database called test_db so you can run it quickly and out-of-the-box without much configuration.
+This application is using an H2 database called testdb so you can run it quickly and out-of-the-box without much configuration.
 
 **How to run this application?**
 1. Install Java 8 and Maven.
